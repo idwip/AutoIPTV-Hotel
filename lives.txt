@@ -1,3 +1,6 @@
 央视频道,#genre#
 卫视频道,#genre#
+广西卫视,http://182.126.119.133:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://182.126.119.133:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 其他频道,#genre#
+都市,http://182.126.119.133:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
